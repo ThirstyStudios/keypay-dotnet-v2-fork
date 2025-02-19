@@ -39,6 +39,8 @@ namespace KeyPayV2.Au.Enums
         PublicHolidayNotWorked,
         UnusedLeavePaymentNormalTermination,
         BackPayment,
-        PaidFamilyAndDomesticViolenceLeave
+        PaidFamilyAndDomesticViolenceLeave,
+        GST
     }
+    //https://github.com/KeyPay/keypay-dotnet-v2/issues/9
 }
